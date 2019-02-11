@@ -11,6 +11,10 @@ For detailed explanation of code, [visit here](http://www.androhub.com/android-t
 
 [![Watch demo](http://i3.ytimg.com/vi/xjo07iFpouQ/hqdefault.jpg)](https://youtu.be/xjo07iFpouQ)
 
+# Related
+
+- [Speech to Text](http://www.androhub.com/android-speech-to-text/)
+
 # Support
 Reach out to me at one of the following places!
 
